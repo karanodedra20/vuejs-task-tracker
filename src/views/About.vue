@@ -8,6 +8,6 @@
 <script>
 export default {
   name: 'About',
-  inheritAttrs: false,
+  inheritAttrs: false, // disable 'non-props' warning
 };
 </script>
